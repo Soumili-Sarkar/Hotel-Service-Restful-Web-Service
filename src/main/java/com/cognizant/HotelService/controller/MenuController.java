@@ -33,7 +33,7 @@ public class MenuController {
       MenuItem menu3 = new MenuItem();
       menu3.setId(3);
       menu3.setName("Cold Drink");
-      menu3.setPrice(35);
+      menu3.setPrice(55);
       menuItemList.put(menu3.getId(), menu3);
    }
   
